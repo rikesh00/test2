@@ -1,0 +1,1 @@
+print("rikesh jung thapa")
